@@ -12,6 +12,8 @@ Sou um FullStack Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com Flutter e React
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native/Flutter & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Valorant e Futebol
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BermanBenjamin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berman-schultz-486a27180/) 
+ Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+| 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BermanBenjamin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berman-schultz-486a27180/)(https://www.linkedin.com/in/berman-schultz-486a27180/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
